@@ -948,22 +948,14 @@
 			<Node name="{fc9c0755-2819-4b25-8964-06a87b81e1ad}">
 				<Node name="decisionng">
 					<Node name="decisionng_automation">
-						<Node name="keywordtests">
-							<Node name="modelling">
-								<Node name="fact type">
-									<Node name="general"/>
-									<Node name="modelmapping"/>
-								</Node>
-							</Node>
-						</Node>
 						<Node name="script">
 							<Node name="modelling">
 								<Node name="facttype">
 									<Node name="general"/>
 									<Node name="modelmapping"/>
+									<Node name="test case specific"/>
 								</Node>
 							</Node>
-							<Node name="tasks_queue"/>
 						</Node>
 					</Node>
 				</Node>

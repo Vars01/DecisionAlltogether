@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Validation">
+			<folder name="FactTypes">
+				<child name="Tasks_AddFT_Validation_AllowedValues_IsRequired" key="{215EEFA8-EB37-4010-AAB7-0F2658EE1480}" path="Tasks_AddFT_Validation_AllowedValues_IsRequired.js" />
+				<child name="Tasks_AddFT_Validation_DataType_IsRequired" key="{93317750-0360-44F9-98C1-C28537EC2599}" path="Tasks_AddFT_Validation_DataType_IsRequired.js" />
+				<child name="Tasks_AddFt_Validation_DisplayFormatIsRequired" key="{BBBA684A-0EFC-4C82-9DC6-FAC8CBD66C49}" path="Tasks_AddFt_Validation_DisplayFormatIsRequired.js" />
+				<child name="Tasks_AddFT_Validation_Duplicate_FactType" key="{90A11CF5-5E11-46D5-8907-9DB9AEF9486F}" path="Tasks_AddFT_Validation_Duplicate_FactType.js" />
+				<child name="Tasks_AddFT_Validation_NameIsRequired" key="{00C64A2F-3155-40C9-AF95-CA3FB23D8A5F}" path="Tasks_AddFT_Validation_NameIsRequired.js" />
+			</folder>
+		</folder>
+		<folder name="Generic">
+			<child name="SelectingDateFromCalendar" key="{1C228B8F-429C-4585-993D-33F48E0A2C40}" path="SelectingDateFromCalendar.js" />
+			<child name="SelectingOptionfromDropDown_Only1DDexsists" key="{16C9A004-789F-45C0-8DDA-22255D4A6CCF}" path="SelectingOptionfromDropDown_Only1DDexsists.js" />
+			<child name="SelectingItem_SingleItem_Match_MultipleRows" key="{B9E11F6A-C297-4A3F-B2A8-7B05F1449819}" path="SelectingItem_SingleItem_Match_MultipleRows.js" />
+			<child name="SelectingTimeFromDropDown" key="{CC41117D-AD67-4632-B025-1B0D629294EE}" path="SelectingTimeFromDropDown.js" />
+			<child name="SelectingDate_Time_FromCalendar" key="{A1B2BB02-498E-4D76-A7FA-95C7D445253B}" path="SelectingDate_Time_FromCalendar.js" />
+			<child name="Picture_To_Log" key="{D348ABA5-7AE9-4B7A-9960-B765BA77904D}" path="Picture_To_Log.js" />
+		</folder>
+		<folder name="Modelling">
+			<folder name="FactType">
+				<folder name="General">
+					<child name="DetailsTab_testValues_StringMultipleInput" key="{29130691-266F-441F-9EFC-F7842440A8FB}" path="DetailsTab_testValues_StringMultipleInput.js" />
+				</folder>
+				<folder name="Test Case Specific">
+					<child name="FactTypeTab_AddNewFactType_Verify" key="{C513C999-C98D-4BE6-86C4-C6B46428A70D}" path="FactTypeTab_AddNewFactType_Verify.js" />
+					<child name="FactTypeTab_FactTypeSummary_DetailsTab_Verify" key="{609A5D24-0146-41B5-8011-2A5022CAB044}" path="FactTypeTab_FactTypeSummary_DetailsTab_Verify.js" />
+				</folder>
+				<folder name="ModelMapping">
+					<child name="Generic_code" key="{172D5B38-7179-4200-A670-87841D7813EF}" path="Generic_code.js" />
+					<child name="FactTypeSummary_MMTab_MD_Select" key="{C2E50C40-AE7E-4851-903A-593F422A421E}" path="FactTypeSummary_MMTab_MD_Select.js" />
+					<child name="FactTypeSummary_MMTab_MD_InUse_Verify" key="{2F8FC6E4-8FF8-452E-A883-8391252BFF4B}" path="FactTypeSummary_MMTab_MD_InUse_Verify.js" />
+					<child name="FactTypeSummary_MMTab_MDVersion_Select" key="{3C3AF8A7-8FA9-4696-A5C2-60E95CD21ABC}" path="FactTypeSummary_MMTab_MDVersion_Select.js" />
+					<child name="FactTypeSummary_MMTab_MDVersion_Verify_Status" key="{711A296F-91A1-4D68-838B-884134BD0CFC}" path="FactTypeSummary_MMTab_MDVersion_Verify_Status.js" />
+					<child name="FactTypeSummary_MMTab_MD_Version_InUse_Verify" key="{C635611E-9CE9-4E62-BC50-6D510C6EB697}" path="FactTypeSummary_MMTab_MD_Version_InUse_Verify.js" />
+					<child name="FactTypeSummary_MMTab_MD_Version_MarkForDelete_Verify" key="{051509C5-D082-4F65-8086-70589021DAB9}" path="FactTypeSummary_MMTab_MD_Version_MarkForDelete_Verify.js" />
+					<child name="FactTypeSummary_MMTab_MDVersion_Ellipsis_Click" key="{7AA3920B-509C-4843-98F2-FBB9D994E158}" path="FactTypeSummary_MMTab_MDVersion_Ellipsis_Click.js" />
+					<child name="FactTypeSummary_MMTab_SubmitforApproval" key="{8AC36C42-2A94-4E1C-A1A6-A428FFEDDC3C}" path="FactTypeSummary_MMTab_SubmitforApproval.js" />
+				</folder>
+			</folder>
+		</folder>
+		<folder name="Tasks_Queue">
+			<child name="Tasks_MyTasks" key="{4E8686FE-27B3-4B65-BD31-8D0DA1D142AA}" path="Tasks_MyTasks.js" />
+		</folder>
+		<folder name="HomePage">
+			<child name="Create_A_New_Task" key="{5A5E9887-B20B-427B-B993-80D96FF62C90}" path="Create_A_New_Task.js" />
+		</folder>
+		<folder name="Administration">
+			<folder name="Security">
+				<child name="Permission_Matrix_Set_Permission_PermissionGroups" key="{3C8E41B2-DCF6-4DA6-84C2-6539E9A17B88}" path="Permission_Matrix_Set_Permission_PermissionGroups.js" />
+				<child name="Permission_Matrix_Set_PermissionGroups_Roles" key="{4DDFF3EB-B3A4-4215-BB62-9E150458650E}" path="Permission_Matrix_Set_PermissionGroups_Roles.js" />
+				<child name="Administration_Security_AddUser" key="{5FEBE74D-714D-44D3-9E35-0139D92A150A}" path="Administration_Security_AddUser.js" />
+				<child name="Verify_UserCreated_And_Roles" key="{2C71E8D4-F64D-4140-BCAB-95C8019540A0}" path="Verify_UserCreated_And_Roles.js" />
+				<child name="Administration_Community_AssignUser" key="{94D8895E-DF68-44BA-BFCE-A4A44F35D211}" path="Administration_Community_AssignUser.js" />
+				<child name="VerifyUser_ManageRoles" key="{0ACC5E98-585D-46FB-B02A-CC33EE749620}" path="VerifyUser_ManageRoles.js" />
+			</folder>
+		</folder>
+		<child name="Event_RefreshPage_OnError" key="{2695074E-AC81-4D06-8D58-16AFCBD7D61D}" path="Event_RefreshPage_OnError.js" />
+		<child name="Unit1" key="{A0644362-44A9-4DD9-BFCE-567F8D9DF6D0}" path="Unit1.js" />
+		<child name="Unit2" key="{34F4F35A-3B17-4FA1-B884-31E1B678F70C}" path="Unit2.js" />
+	</children>
+</Root>
